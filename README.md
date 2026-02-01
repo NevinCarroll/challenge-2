@@ -1,4 +1,4 @@
-# Challenge 1: Montana County Lookup
+# Challenge 2: Montana County Lookup Extended
 This program allows the user to look up the 
 county information that is pertained to a 
 license plate prefix.
